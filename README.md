@@ -9,7 +9,7 @@
  
  💬 **Ask me about:** Anything *Systems Enginnering* related, assosiated with technology or emerging tecnologies.
  
- 📫 **How to reach me:** Email my at:mariogc5555@gmail.com.
+ 📫 **How to reach me:** Email my at: mariogc5555@gmail.com.
  
 <!--
 **mariogc55/MarioGC55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
