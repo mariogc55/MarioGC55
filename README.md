@@ -1,6 +1,6 @@
 ## Hi there 👋
-### Welcome to my github, where i'm gonna upload new proyects software related
-## i'm Mario, a Systems Enginner student, apassionate about tecnology, software development, IA, and more
+### Welcome to my github, where i'm gonna upload new proyects software related.
+## i'm Mario, a Systems Enginner student, apassionate about tecnology, software development, IA, and more.
 
  🔭 **I’m currently working on**: Building various projects to expand my *skill* set.
  
