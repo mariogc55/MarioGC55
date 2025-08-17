@@ -8,8 +8,8 @@
 
 
 
-## Hi there 👋
-### I'm Mario, a Systems Engineering student passionate about technology, software development, AI, and more. This is where I'll be sharing my latest projects.
+## Welcome to my github 👋
+### I am a Systems Engineering student at Universidad Santiago de Cali with a strong passion for technology, software development, AI and advanced trends. My primary interests include Artificial Intelligence (AI) and Retrieval-Augmented Generation (RAG). I am actively expanding my skills as a developer across various areas such as Frontend web development and am dedicated to deepening my knowledge of programming languages such as Python, Java, C#, C, HTML, CSS, and JavaScript.
 
  🔭 **I’m currently working on**: Building various projects to expand my *skill* set.
  
