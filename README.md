@@ -6,8 +6,6 @@
 - █░░░░░█░░░██████░░░░███████░░░██████░░░░██████░
 
 
-
-
 ## Welcome to my github 👋
 ### I am a Systems Engineering student at Universidad Santiago de Cali with a strong passion for technology, software development, AI and advanced trends. 
 
