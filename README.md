@@ -20,7 +20,7 @@
  
  💬 **Ask me about:** Anything *Systems Enginnering* related, assosiated with technology or emerging tecnologies.
  
- 📫 **How to reach me:** Email my at: mariogc5555@gmail.com.
+ 📫 **How to reach me:** Email my at: mariogc5555@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioGC55&show_icons=true&theme=transparent&bg_color=000000&text_color=ffa500&title_color=ffa500&icon_color=ffa500)
 
