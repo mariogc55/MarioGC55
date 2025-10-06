@@ -12,7 +12,7 @@
 ### My primary interests include Artificial Intelligence (AI) and Retrieval-Augmented Generation (RAG). 
 ### I am actively expanding my skills as a developer across various areas such as Frontend and Backend web development and i'm dedicated to deepening my knowledge of programming languages such as Python, Java, C#, C, HTML, CSS, and JavaScript.
 
- 🔭 **I’m currently working on**: Building various projects to expand my *skill* set.
+ 🔭 **I’m currently working on:** Building various projects to expand my *skill* set.
  
  🌱 **I’m currently learning:** New methods and technologies *developing* related.
  
