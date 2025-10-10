@@ -6,7 +6,7 @@
 - █░░░░░█░░░██████░░░░███████░░░██████░░░░██████░
 
 
-## Welcome to my github 👋
+## Welcome :D
 ### I am a Systems Engineering student at Universidad Santiago de Cali with a strong passion for technology, software development, AI and advanced trends. 
 
 ### My primary interests include Artificial Intelligence (AI) and Retrieval-Augmented Generation (RAG). 
