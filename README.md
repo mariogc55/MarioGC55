@@ -12,15 +12,15 @@
 ### My primary interests include Artificial Intelligence (AI) and Retrieval-Augmented Generation (RAG). 
 ### I am actively expanding my skills as a developer across various areas such as Frontend and Backend web development and i'm dedicated to deepening my knowledge of programming languages such as Python, Java, C#, C, HTML, CSS, and JavaScript.
 
- 🔭 **I’m currently working on:** Building various projects to expand my *skill* set.
+ **I’m currently working on:** Building various projects to expand my *skill* set.
  
- 🌱 **I’m currently learning:** New methods and technologies *developing* related.
+ **I’m currently learning:** New methods and technologies *developing* related.
  
- 👯 **I’m looking to collaborate on:** Ingenious *proyecs* with other developers.
+ **I’m looking to collaborate on:** Ingenious *proyecs* with other developers.
  
- 💬 **Ask me about:** Anything *Systems Enginnering* related, assosiated with technology or emerging tecnologies.
+ **Ask me about:** Anything *Systems Enginnering* related, assosiated with technology or emerging tecnologies.
  
- 📫 **How to reach me:** Email my at: mariogc5555@gmail.com
+ **How to reach me:** Email my at: mariogc5555@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioGC55&show_icons=true&theme=transparent&bg_color=000000&text_color=ffa500&title_color=ffa500&icon_color=ffa500)
 
