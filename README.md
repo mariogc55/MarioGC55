@@ -10,7 +10,7 @@
 ### I am a Systems Engineering student at Universidad Santiago de Cali with a strong passion for technology, software development, AI and advanced trends. 
 
 ### My primary interests include Artificial Intelligence (AI) and Retrieval-Augmented Generation (RAG). 
-### I am actively expanding my skills as a developer across various areas such as Frontend and Backend web development and i'm dedicated to deepening my knowledge of programming languages such as Python, Java, C#, C, HTML, CSS, and JavaScript.
+### I am actively expanding my skills as a developer across various areas such as Frontend and Backend web development and i'm dedicated to deepening my knowledge of programming languages such as Python, Java, C#, C, HTML, CSS, Vue, and JavaScript.
  
  Email my at: mariogc5555@gmail.com
 
