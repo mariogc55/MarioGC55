@@ -10,8 +10,8 @@
 ### My primary interests include Artificial Intelligence (AI) and Retrieval-Augmented Generation (RAG). 
 ### I am actively expanding my skills as a developer across various areas such as Frontend and Backend web development and i'm dedicated to deepening my knowledge of programming languages such as Python, Java, C#, C, HTML, CSS, Vue, and JavaScript.
 
- Portfolio: mariogc55.github.io
- Email my at: mariogc5555@gmail.com
+ #### Portfolio: mariogc55.github.io
+ #### Email my at: mariogc5555@gmail.com
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioGC55&show_icons=true&theme=transparent&bg_color=000000&text_color=ffa500&title_color=ffa500&icon_color=ffa500)
 
