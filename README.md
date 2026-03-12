@@ -9,12 +9,11 @@
  #### Portfolio: [https://mariogc55.github.io](https://mariogc55.github.io/)
  #### Email my at: mariogc5555@gmail.com
 
+<img width="144" height="144" alt="cassette_unico" src="https://github.com/user-attachments/assets/f4411445-069e-48eb-b35f-1cb6884983c7" />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioGC55&show_icons=true&theme=transparent&bg_color=000000&text_color=ffa500&title_color=ffa500&icon_color=ffa500)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGC55&layout=donut&show_icons=true&theme=gruvbox&bg_color=000000&text_color=ffa500&title_color=ffa500&icon_color=ffa500)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img width="480" height="480" alt="cassette_unico" src="https://github.com/user-attachments/assets/f4411445-069e-48eb-b35f-1cb6884983c7" />
 
 
 <!--
