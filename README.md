@@ -1,9 +1,5 @@
-- █░░░░░█░░░██████░░░░██████░░░░███████░░░███████
-- ██░░░██░░░█░░░░█░░░█░░░░░░░░░░█░░░░░░░░░█░░░░░░
-- █░█░█░█░░░█░░░░░░░░█░░░░░░░░░░██████░░░░██████░
-- █░░█░░█░░░█░░███░░░█░░░░░░░░░░░░░░░░█░░░░░░░░░█
-- █░░░░░█░░░█░░░░█░░░█░░░░░░░░░░░░░░░░█░░░░░░░░░█
-- █░░░░░█░░░██████░░░░███████░░░██████░░░░██████░
+
+<img width="1920" height="381" alt="Diseño Banner github" src="https://github.com/user-attachments/assets/74b07cb7-5ebe-4c94-957a-e9d121fe286e" />
 
 ### I am a Systems Engineering student at Universidad Santiago de Cali with a strong passion for technology, software development, AI and advanced trends. 
 
