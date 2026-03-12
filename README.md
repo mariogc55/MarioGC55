@@ -14,6 +14,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGC55&layout=donut&show_icons=true&theme=gruvbox&bg_color=000000&text_color=ffa500&title_color=ffa500&icon_color=ffa500)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<img width="480" height="480" alt="cassette_unico" src="https://github.com/user-attachments/assets/f4411445-069e-48eb-b35f-1cb6884983c7" />
+
+
 <!--
 **mariogc55/MarioGC55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
